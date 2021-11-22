@@ -244,7 +244,7 @@ that can change.
 
 ### [Division by zero](https://en.wikipedia.org/wiki/Division_by_zero)
 
-This is not usually a thing that can be done, except in some wierd algebra thing where you
+This is not usually a thing that can be done, except in some weird algebra thing where you
 figure out a result indirectly, maybe.
 
 
